@@ -10,3 +10,6 @@ Git spurningar og svör
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
     git clone 
 Afritar repository sem til er og setur það yfir í nýtt directory. Það er gagnlegt vegna þess það er þægilegra í staðinn fyrir að nota git init.
+
+	git log
+Sýnir commit history. Þægilegt til þess að sjá hvaða breytingar hafa komið.
