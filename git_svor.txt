@@ -47,4 +47,8 @@ Heltu kostir eru að það margir geta verið að vinna í verkefni í einu án 
 
 7.    Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
-Working directory er með source gögning þín. Maður commit-ar í repository og svo notum við checkout til að fá nýjustu breytingar úr repository-inum yfir í Working directory-ið okkar. Staging area er staðurinn á milli Working Directory or Repository-inu. Þar getum við add-að file-um án þess að commit þau strax. 
+Working directory er með source gögning þín. Maður commit-ar í repository og svo notum við checkout til að fá nýjustu breytingar úr repository-inum yfir í Working directory-ið okkar. Staging area er staðurinn á milli Working Directory or Repository-inu. Þar getum við add-að file-um án þess að commit þau strax.
+
+8.    Hvenær er sniðugt að nota greinar (branches)?
+
+Þegar ´maður vinnur með mismunandi kóða. T.d er gott að hafa eitt branch þar sem maður vinnur með PHP og annað branch þar sem unnið er í HTML/CSS o.s.frv.
