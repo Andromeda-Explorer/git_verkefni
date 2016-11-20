@@ -4,3 +4,4 @@ Git spurningar og svör
     cd Notað til að breyta directory.
     cd ~ Kemur notandanum í home directory án þess að þurfa að skrifa allt.
 	Ls Birtir hlutina í directory.
+	Pwd Sýnir þér í hvaða directory þú ert alla leið frá rótinni (/).
