@@ -21,4 +21,8 @@ Athugar hvort repository er með núverandi skrár í working directory og segir
 Sýnir breytingar á commits, commit og working tree. Gott að nota til þess að sjá breytingar.
 
 	git checkout
-Nær í breytingarnnar í respositroy og setur þær yfir í working directory. Gott til þess að fá skjöl sem hafa verið breytt. 
+Nær í breytingarnnar í respositroy og setur þær yfir í working directory. Gott til þess að fá skjöl sem hafa verið breytt.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+    a) git diff 
+Sýnir breytingar á commits, commit og working tree. 
