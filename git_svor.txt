@@ -36,3 +36,7 @@ Sýnir breytingar á commit1 og commit2.
 4.     Hvað er útgáfustýring (e.version control)? 
 
 Útgáfustýring geymir skjölin þín í mismunandi útgáfum eftir því hversu mikið er búið að gera við verkefnið þannig þú getur alltaf farið til baka í tíma í verkefninu þínu til þess að sjá hvar verkefnið fór úrskeyðis.
+
+5.    Hverjir eru helstu kostir við að nota GIT?
+
+Heltu kostir eru að það margir geta verið að vinna í verkefni í einu án þess að þurfa að hittast einhverstaðar, það er líka hægt að fara til baka í verkefninu útaf version control og er það gott fyrir hópa. Git er mjög hratt kerfi til þess að nota og er þess vegna gott þegar maður vinnur verkefni. Góður kostur er líka að það er frítt og opið(open source).
