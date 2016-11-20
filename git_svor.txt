@@ -5,3 +5,4 @@ Git spurningar og svör
     cd ~ Kemur notandanum í home directory án þess að þurfa að skrifa allt.
 	Ls Birtir hlutina í directory.
 	Pwd Sýnir þér í hvaða directory þú ert alla leið frá rótinni (/).
+	Mkdir Býr til nýjan directory ef hann er ekki áður til.
