@@ -40,3 +40,7 @@ Sýnir breytingar á commit1 og commit2.
 5.    Hverjir eru helstu kostir við að nota GIT?
 
 Heltu kostir eru að það margir geta verið að vinna í verkefni í einu án þess að þurfa að hittast einhverstaðar, það er líka hægt að fara til baka í verkefninu útaf version control og er það gott fyrir hópa. Git er mjög hratt kerfi til þess að nota og er þess vegna gott þegar maður vinnur verkefni. Góður kostur er líka að það er frítt og opið(open source).
+
+6.    Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Þegar þér finnst að þú ert búinn að vinna í ákveðnum hlut nóg þannig að þú vilt ekki taka áhættuna að það týnist. Ef þú commitar endalaust bara ef það er lítil breyting þá finnst mér að hlutir byrja að flægjast og það verður erfiðara að finna þær breytingar sem þú villt finna. 
