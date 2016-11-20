@@ -2,4 +2,4 @@ Git spurningar og svör
 
 1. Hvað gera eftirfarandi Linux skipanir?
     cd Notað til að breyta directory.
-    
+    cd ~ Kemur notandanum í home directory án þess að þurfa að skrifa allt.
