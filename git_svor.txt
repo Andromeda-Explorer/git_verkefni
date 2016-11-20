@@ -6,3 +6,7 @@ Git spurningar og svör
 	Ls Birtir hlutina í directory.
 	Pwd Sýnir þér í hvaða directory þú ert alla leið frá rótinni (/).
 	Mkdir Býr til nýjan directory ef hann er ekki áður til.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+    git clone 
+Afritar repository sem til er og setur það yfir í nýtt directory. Það er gagnlegt vegna þess það er þægilegra í staðinn fyrir að nota git init.
