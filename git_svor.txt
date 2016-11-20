@@ -32,3 +32,7 @@ Sýnir breytingar á gögnum í “staged” umhverfinu.
 
 	c) git diff commit1 commit2
 Sýnir breytingar á commit1 og commit2.
+
+4.     Hvað er útgáfustýring (e.version control)? 
+
+Útgáfustýring geymir skjölin þín í mismunandi útgáfum eftir því hversu mikið er búið að gera við verkefnið þannig þú getur alltaf farið til baka í tíma í verkefninu þínu til þess að sjá hvar verkefnið fór úrskeyðis.
