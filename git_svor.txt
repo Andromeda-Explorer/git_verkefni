@@ -13,3 +13,6 @@ Afritar repository sem til er og setur það yfir í nýtt directory. Það er g
 
 	git log
 Sýnir commit history. Þægilegt til þess að sjá hvaða breytingar hafa komið.
+
+	git status
+Athugar hvort repository er með núverandi skrár í working directory og segir til um hvort hægt sé að commit-a eða ekki. Gott að nota til að bera saman repository og working directory.
