@@ -16,3 +16,6 @@ Sýnir commit history. Þægilegt til þess að sjá hvaða breytingar hafa komi
 
 	git status
 Athugar hvort repository er með núverandi skrár í working directory og segir til um hvort hægt sé að commit-a eða ekki. Gott að nota til að bera saman repository og working directory.
+
+	git diff
+Sýnir breytingar á commits, commit og working tree. Gott að nota til þess að sjá breytingar.
