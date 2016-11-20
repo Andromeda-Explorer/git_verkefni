@@ -29,3 +29,6 @@ Sýnir breytingar á commits, commit og working tree.
 
 	b) git diff --staged 
 Sýnir breytingar á gögnum í “staged” umhverfinu. 
+
+	c) git diff commit1 commit2
+Sýnir breytingar á commit1 og commit2.
