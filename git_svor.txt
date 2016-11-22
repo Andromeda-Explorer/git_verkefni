@@ -52,3 +52,5 @@ Working directory er með source gögning þín. Maður commit-ar í repository 
 8.    Hvenær er sniðugt að nota greinar (branches)?
 
 Þegar ´maður vinnur með mismunandi kóða. T.d er gott að hafa eitt branch þar sem maður vinnur með PHP og annað branch þar sem unnið er í HTML/CSS o.s.frv.
+
+Thomas
